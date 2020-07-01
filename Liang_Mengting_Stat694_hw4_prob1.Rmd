@@ -1,0 +1,18 @@
+---
+title: "Stat 694 Homework 4"
+author: "Mengting Liang"
+date: "6/28/2020"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+# Problem 1:
+
+In your **GitHub** account create a Repository. Configure R Studio to be used with **git** and **GitHub**. Create an .Rmd test file and commit and push the file. Give the link to your GitHub Repository. **Turn in a .Rmd and .docx file**.
+
+Link to my GitHub Repository:
+https://github.com/monicaliang1889/HW4
+
+
